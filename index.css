@@ -27,14 +27,19 @@ body{
     box-shadow: 0px 0px 2px 2px grey;
     margin-top:15px;
 }
+.card{
+    height:max-content;
+    width:max-content;
+}
 .card-title{
     text-align: center;
     background-color:rgba(128, 128, 128, 0.2);
     padding:20px;
 }
 .card-body{
+
     width:max-content;
-    height:250px;
+    height:300px;;
 }
 .tglBody{
     display:flex;
